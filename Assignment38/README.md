@@ -13,7 +13,7 @@ python main.py
 ## Result
 ### apples bananas 
 
-![](apples_and_bananas/output/Figure_1.png)
+![](apples and bananas/output/Figure_1.png)
 
 To see the rest of the results,go to the output file.
 ### california_cities
@@ -22,7 +22,7 @@ To see the rest of the results,go to the output file.
 
 ### melons_and_ballons
 
-![](melons_and_ballons/output/lemons_and_ballons.png)
+![](melons and ballons/output/lemons_and_ballons.png)
 
 
 
