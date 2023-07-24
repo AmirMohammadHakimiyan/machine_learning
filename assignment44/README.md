@@ -12,5 +12,8 @@ main.ipynb
 ```
 ## result
 ![](output/output.png)
+
+
 Draw some wrong ***red*** lines with a random slope.
+
 Draw the correct ***blue*** line using your Object Oriented Linear Least Squares (LLS) method.
