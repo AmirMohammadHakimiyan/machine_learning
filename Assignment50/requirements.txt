@@ -1,0 +1,4 @@
+tensorflow
+matplotlib.pyplot
+pandas
+numpy
